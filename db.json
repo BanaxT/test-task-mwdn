@@ -1,0 +1,16 @@
+{
+  "groceryList": [
+    {
+      "id": "ccfc",
+      "name": "Adfadsf asdf adsfa adsf",
+      "amount": "2345345234",
+      "bought": false
+    },
+    {
+      "id": "611c",
+      "name": "Asdf",
+      "amount": "23453",
+      "bought": false
+    }
+  ]
+}
